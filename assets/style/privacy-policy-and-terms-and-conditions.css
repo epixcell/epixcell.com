@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 1em;
+    color: #757C86;
+}
+
+h1 {
+    font-weight: 700;
+    color: #0C0804;
+}
+
+h1 span, a {
+    color: #F82E1B;
+}
+
+section {
+    padding: 50px 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.highligh {
+    color: #F82E1B;
+    font-weight: 700;
+}
